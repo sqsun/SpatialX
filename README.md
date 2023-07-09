@@ -1,4 +1,4 @@
-# Bioc2021 SpatialExperiment Workshop
+# SpatialX
 
 This three-part workshop provides background and tools to start working with 
 spatially resolved transcriptomics data with R/Bioconductor.
@@ -21,14 +21,12 @@ provided during the sessions.
 
 # Link
 
-https://drighelli.github.io/SpatialExperiment_Bioc2021/index.html
+https://sqsun.github.io/SpatialX/index.html
 
 
 # Authors
 
-- [Dario Righelli](github.com/drighelli) (dario.righelli@gmail.com)
-- [Helena L. Crowell](github.com/HelenaLC) (helena.crowell@uzh.ch)
-- [Lukas M. Weber](https://lmweber.org/) (lukas.weber@jhu.edu)
+- [Shiquan Sun](github.com/sqsun) (sqsunsph@xjtu.edu.cn)
 
 
 # Pre-requisites
