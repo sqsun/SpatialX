@@ -1,4 +1,4 @@
-url: https://drighelli.github.io/SpatialExperiment_Bioc2021
+url: https://sqsun.github.io/SpatialX
 
 template:
   params:
@@ -6,13 +6,13 @@ template:
     #ganalytics: UA-99999999-9
 
 home:
-  title: "SpatialExperiment_Bioc2021"
+  title: "SpatialX"
   type: inverse
 
 
 navbar:
   right:
    - icon: fa-github
-     href: https://github.com/drighelli/SpatialExperiment_Bioc2021
+     href: https://github.com/sqsun/SpatialX
      
 
