@@ -1,23 +1,23 @@
-Package: SpatialExperimentBioc2021
+Package: SpatialX
 Title: SpatialExperiment: infrastructure for spatially resolved transcriptomics 
     data in R using Bioconductor
 Version: 1.0.0
 Authors@R: 
-    c(person(given = "Dario",
-           family = "Righelli",
+    c(person(given = "Shiquan",
+           family = "Sun",
            role = c("aut", "cre"),
-           email = "dario.righelli@gmail.com",
-           comment = c(ORCID = "0000-0003-1504-3583")),
-    person(given = "Helena L",
-           family = "Crowell",
+           email = "sqsunsph@xjtu.edu.cn",
+           comment = c(ORCID = "0000-0002-9150-6992")),
+    person(given = "Jin",
+           family = "Ning",
            role = c("aut"),
-           email = "helena.crowell@uzh.ch",
-           comment = c(ORCID = "0000-0002-4801-1767")),
-    person(given = "Lukas M",
-           family = "Weber",
+           email = "jinning@xjtu.edu.cn",
+           comment = c(ORCID = "0000-0002-4801-xxx")),
+    person(given = "Xiya",
+           family = "Guo",
            role = c("aut"),
-           email = "lukas.weber@jhu.edu",
-           comment = c(ORCID = "0000-0002-3282-1730")))
+           email = "xiyaguo@xjtu.edu.cn",
+           comment = c(ORCID = "0000-0002-3282-xxx")))
 Description: Spatially resolved transcriptomics is a new set of technologies to 
     measure gene expression for up to thousands of genes at near-single-cell, 
     single-cell, or sub-cellular resolution, together with the spatial positions 
