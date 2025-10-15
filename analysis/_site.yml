@@ -1,12 +1,14 @@
-name: spatialx
+name: SpatialX
 output_dir: ../docs
 navbar:
-  title: spatialx
+  title: SpatialX
   left:
   - text: Home
     href: index.html
   - text: About
     href: about.html
+  - text: SPARK
+    href: spark-analysis.html
   - text: License
     href: license.html
   right:
