@@ -11,7 +11,7 @@
 #include <omp.h>
 #include <algorithm> 
 #include <chrono>
-
+// 11
 #ifndef _CLOCK_T_DEFINED
 typedef long clock_t;
 #define _CLOCK_T_DEFINED
